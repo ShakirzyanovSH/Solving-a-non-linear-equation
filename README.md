@@ -1,12 +1,12 @@
 # Solving-a-non-linear-equation
 
-Решение нелинейного уравнения методом простых итераций.
+Р РµС€РµРЅРёРµ РЅРµР»РёРЅРµР№РЅРѕРіРѕ СѓСЂР°РІРЅРµРЅРёСЏ РјРµС‚РѕРґРѕРј РїСЂРѕСЃС‚С‹С… РёС‚РµСЂР°С†РёР№.
 
 cos(x^2) - 10x = 0.
 
-1.	Уточнить указанным методом корень уравнения с заданной точностью.
-2.	На входе программы: интервал неопределенности ([a, b] ), точность решения задачи e.
-3.	Результат решения задачи: корень уравнения, число потребовавшихся для нахождения корня итераций, проверка решения.
+1.	1. РЈС‚РѕС‡РЅРёС‚СЊ СѓРєР°Р·Р°РЅРЅС‹Рј РјРµС‚РѕРґРѕРј РєРѕСЂРµРЅСЊ СѓСЂР°РІРЅРµРЅРёСЏ СЃ Р·Р°РґР°РЅРЅРѕР№ С‚РѕС‡РЅРѕСЃС‚СЊСЋ.
+2.	2.	РќР° РІС…РѕРґРµ РїСЂРѕРіСЂР°РјРјС‹: РёРЅС‚РµСЂРІР°Р» РЅРµРѕРїСЂРµРґРµР»РµРЅРЅРѕСЃС‚Рё ( ), С‚РѕС‡РЅРѕСЃС‚СЊ СЂРµС€РµРЅРёСЏ Р·Р°РґР°С‡Рё e.
+3.	3.	Р РµР·СѓР»СЊС‚Р°С‚ СЂРµС€РµРЅРёСЏ Р·Р°РґР°С‡Рё: РєРѕСЂРµРЅСЊ СѓСЂР°РІРЅРµРЅРёСЏ, С‡РёСЃР»Рѕ РїРѕС‚СЂРµР±РѕРІР°РІС€РёС…СЃСЏ РґР»СЏ РЅР°С…РѕР¶РґРµРЅРёСЏ РєРѕСЂРЅСЏ РёС‚РµСЂР°С†РёР№, РїСЂРѕРІРµСЂРєР° СЂРµС€РµРЅРёСЏ..
 
 
 Solution of a nonlinear equation by the method of simple iterations.
@@ -16,4 +16,3 @@ Solution of a nonlinear equation by the method of simple iterations.
 1. Refine the root of the equation with a given accuracy by the specified method.
 2. At the input of the program: the uncertainty interval ([a, b]), the accuracy of the solution of the problem e.
 3. The result of solving the problem: the root of the equation, the number of iterations required to find the root, checking the solution.
-
